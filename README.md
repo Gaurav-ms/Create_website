@@ -69,7 +69,7 @@ docker-compose start
 ```
 
 # License
-[MIT](https://github.com/Gaurav-ms/Webapp/blob/master/LICENSE)
+[MIT](https://github.com/Gaurav-ms/Create_website/blob/master/LICENSE)
 
 # Author 
 [Gaurav Sharma](https://github.com/Gaurav-ms)
